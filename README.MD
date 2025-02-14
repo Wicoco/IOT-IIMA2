@@ -1,4 +1,6 @@
-#Auteurs: Victor Fernel & Théo jublou
+## Auteurs
+
+Victor Fernel & Théo Jublou
 
 # Projet Détection Sonore avec LED
 
