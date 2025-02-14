@@ -1,3 +1,5 @@
+#Auteurs: Victor Fernel & Théo jublou
+
 # Projet Détection Sonore avec LED
 
 Ce projet utilise un capteur sonore pour détecter les bruits et allumer une LED en réponse à ces sons. Le projet peut être activé ou désactivé via une commande envoyée depuis le moniteur série de l'IDE Arduino. La LED s'éteint automatiquement après un délai si le niveau sonore tombe en dessous du seuil prédéfini.
@@ -127,3 +129,6 @@ void loop() {
 //     digitalWrite(Led, HIGH);
 //     Serial.println("Silence détecté ! LED allumée.");
 // }
+
+
+
